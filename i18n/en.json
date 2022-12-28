@@ -1,0 +1,771 @@
+{
+  "Menu": {
+    "Experience_Hall": {
+      "title": "EXPERIENCE HALL",
+      "children": {
+        "Online_Exhibition": "Online Exhibition",
+        "Live_Conference": "Live Conference",
+        "NFT_Bazaar": "NFT Bazaar"
+      }
+    },
+    "About": {
+      "title": "ABOUT",
+      "children": {
+        "2022_Introduction": "2022 Introduction",
+        "2020_Retrospect": "2020 Retrospect",
+        "2018_Retrospect": "2018 Retrospect"
+      }
+    },
+    "Activities": {
+      "title": "ACTIVITIES",
+      "children": {
+        "Agenda": "Agenda",
+        "Speakers": "Speakers"
+      }
+    },
+    "Tickets": {
+      "title": "TICKETS",
+      "children": {
+        "Registration": "Registration",
+        "NFT_Redeem": "NFT Redeem",
+        "Contact_Us": "Contact Us"
+      }
+    }
+  },
+  "Indicators": {
+    "Experience_Hall": "Experience Hall",
+    "About": "About",
+    "Agenda": "Agenda",
+    "Speaker": "Speakers",
+    "Registration": "Registration"
+  },
+  "About": {
+    "title": "About",
+    "What_is_DigiAsia": {
+      "title": "What is DigiAsia?",
+      "descriptions": [
+        "DigiAsia is a digital marketing congress  authorized by the Asian Federation of Advertising Associations (AFAA). Taipei Association of Advertising Agencies (TAAA) organizes this outstanding event which takes place in Taiwan once every two years (every even year) starting from 2014.",
+        "Aiming at creating the biggest digital innovation platform in the world, DigiAsia serves as a forum that bridges talents from all over the world. The congress encourages digital professionals to learn, share, and experience based on the common goal of creating a better future."
+      ]
+    },
+    "Why_is_DigiAsia_important": {
+      "title": "Why is DigiAsia important？",
+      "descriptions": [
+        "Tailored to meet the needs of an ever-increasingly technology driver conference in Asia, DigiAsia gathers technology professionals including managers, creative designers, and IT talents, etc. from all over the world. Through DigiAsia, professionals with different experiences and expertise share similar goals and exchange ideas to seek opportunities for cooperation with each other!"
+      ]
+    },
+    "DigiBaby": {
+      "title": "DigiBaby",
+      "descriptions": [
+        "Being a newborn of Asian Federation of Advertising Agencies (AFAA), DigiBaby inherits the excellent descent of traditional ads and absorb new Digi elements to become the perfect combination of technology and humanity. DigiBaby will always be like a newborn baby who is able to grow and evolve at all times, and its mind will never change!",
+        "By 2016, DigiBaby – the vividly crafted emblem of DigiAsia – had grown up into a toddler who took his first step into the world with insatiable curiosity. In 2018, a circuit board featuring on DigiBaby’s head was used to reflect the theme of “Experience AI” and symbolize the symbiosis between AI and humanity.",
+        "In 2020, as part of our responsive measures to cooperate with global epidemic prevention policy, we wore masks for DigiBaby. To tally with this year's theme \"Transformation—Under the new normal\", we also tried to take the momentum of the direction and development of industrial transformation in the post-epidemic era into consideration.",
+        "In the year of 2022, people can now move seamlessly from a physical world to a digital one and create boundless of possibility in applications along with the development of Web3 environment. DigiBaby will also add energy and have a different appearance in this event. DigiAsia 2022 invites all people from Asia to enter “Web3 Rhapsody”, explore the web 3 metaverse, build the interest knowledge, and immerse in the cool experience!"
+      ]
+    },
+    "DigiAsia_2022": {
+      "title": "DigiAsia 2022",
+      "descriptions": [
+        "In the face of the challenge of the ongoing outbreak of coronavirus disease, DigiAsia 2022 is expected to be held based on concurrent virtual and physical integration. Well-known speakers from all over the world are invited to share their showcases and inspirations of Web3 in Brand marketing, Creative, Media, Technology, and Data marketing. There are also exhibitions and immersive experience areas at the event venue, where the attendees are encouraged to experience the unique charm of web3.",
+        "In addition, the conference of this year will also combine the major domestic event,\"Adtaiwan 17th\", to praise the long-term advertising and marketing talents who have enlighten the new generation of advertisers to grow and leap forward in their thinking. A virtual website is established exclusively for DigiAsia 2022, inviting both domestic and international friends to join us as if they’re personally experiencing the situation and to witness the honor of Taiwan’s advertisers at the same time.",
+        "Our topic,\"Web3 Rhapsody\" which focuses on \"Media & Creative\", \"Social & Experience\" and \"Economy & Application\" probes into digital life experience, media marketing solutions and innovative applications of technology such as AR/VR, Metaverse, Crypto Economy, NFT, Immersive Entertainment, Gaming, etc. by connecting the industrial ecosystem to present the pioneering innovation and new business models brought by web3 to the industry and highlight the strength of Taiwan’s software and hardware integration applications."
+      ]
+    },
+    "Organization": {
+      "title": "Organization",
+      "subtitle": "DigiAsia 2022 Preparatory Meeting",
+      "members": [
+        "Taipei Association of Advertising Agencies (TAAA)  Chairman  Robin Lu /  Chairman of DigiAsia 2022",
+        "Kaohsiung Association of Advertising Agencies (KAAA)  Chairman  Andy Wu /  Vice Chairman of DigiAsia 2022",
+        "International Advertising Association (IAA)  Chairman  Elle Huang /  Vice Chairman of DigiAsia 2022",
+        "The Association of Accredited Advertising Agents of Taipei R. O. C. (4A)  Chairman  Vince Cheng /  Vice Chairman of DigiAsia 2022",
+        "Media Agency Association (MAA)  Chairman  Kesy Lee /  Vice Chairman of DigiAsia 2022",
+        "The Digital Marketing Association (DMA)  Chairman  Nathan Chiu /  Vice Chairman of DigiAsia 2022",
+        "Taiwan/Taipei International Public Relations Association (TIPRA)  Chairman  Skeet Kuo /  Vice Chairman of DigiAsia 2022 ",
+        "Asia-Pacific MarTech Transformation Alliance Association (AMT)  Chairman  Simon Koh /  Vice Chairman of DigiAsia 2022"
+      ]
+    },
+    "DigiAsia_2022_Preparation_Committee": {
+      "title": "DigiAsia 2022 Preparation Committee",
+      "subtitle": "DigiAsia 2022 Preparation Committee",
+      "members": [
+        "Consultant Johnny Duann",
+        "Honorary Chairman Evan Teng",
+        "Chairman Robin Lu",
+        "Committee Member Yves Huang",
+        "Committee Member Gary Chi",
+        "Committee Member Nakakawa",
+        "Committee Member FY Lu",
+        "Committee Member Jonathon Chen",
+        "Committee Member Roi Chang"
+      ]
+    }
+  },
+  "Agenda": {
+    "title": "Agenda",
+    "Text": {
+      "registration": "Registration",
+      "opening": "Opening",
+      "closing": "Closing",
+      "vip_Speeches": "Vip_Speeches",
+      "break": "Break",
+      "panel_Discussion": "Panel Discussion",
+      "transition": "Transition",
+      "17th_AdTaiwan": "17th AdTaiwan"
+    },
+    "Exhibition": {
+      "title": "EXHIBITION",
+      "Yahoo": {
+        "title": "YAHOO",
+        "descriptions": [
+          "Yahoo reaches nearly 900 million people around the world, bringing them closer to finance, sports, shopping, gaming and news—with the trusted products, content and tech that fuel their day. For partners, we provide a full-stack platform for businesses to amplify growth and drive more meaningful connections across advertising, search and media. To learn more, please visit yahooinc.com."
+        ]
+      },
+      "HTC_VIVE_ORIGINALS": {
+        "title": "HTC VIVE ORIGINALS",
+        "descriptions": [
+          "A content brand under HTC VIVE, HTC VIVE ORIGINALS is devoted to producing and distributing original XR content. It incorporates core technologies including volumetric capture, blockchain, and XR to explore the development of industries including film, arts,music, and the metaverse. HTC VIVE ORIGINALS’ recent production BEATDAY, a music metaverse ecosystem, aims to enlighten people with the latest technical innovations and initiates a new entertainment experience of Web 3.0 era."
+        ]
+      },
+      "LINE_Taiwan_Limited": {
+        "title": "LINE Taiwan Limited",
+        "descriptions": [
+          "With the LINE messaging app as the cornerstone, LINE Corporation's business encompasses development and operation of a wide range of mobile-first services—including communication, content, and entertainment—and advertising, as well as new businesses in Fintech, AI, and other domains. Under its corporate mission of \"Closing the Distance,\" LINE Corporation strives to bring people around the world closer to each other, to information, and to services."
+        ]
+      },
+      "Meta": {
+        "title": "Meta",
+        "descriptions": [
+          "Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology."
+        ]
+      },
+      "OSENSE_TECHNOLOGY_CO_LTD": {
+        "title": "OSENSE TECHNOLOGY CO., LTD.",
+        "descriptions": [
+          "OSENSE is selected as “In Search of Next Google, 100 companies that will change the world” by Nikkei Business, and we are the only Taiwan enterprise in the rank. Starting from OMO smart space solutions, we try to bridge online service and the real world with core technologies such as computer vision recognition and AI deep learning.",
+          "OSENSE is positioned as the metaverse builder. With solid technologies in 3D and XR, we created a dazzling and interesting metaverse with unlimited business opportunities! The product “OSENSE SPACE” is a high-quality virtual space platform. Users can create exclusive virtual space through 3D modeling or live-action location shots.",
+          "Users can use OSENSE SPACE to hold events or exhibitions. It can be connected blockchain wallets to create a unique exhibition room for NFTs collections. With plenty of XR technology experience, OSENSE will create a colorful and exciting metaverse for your company."
+        ]
+      },
+      "Demiverse_Technology_Co_Ltd": {
+        "title": "Demiverse Technology Co., Ltd.",
+        "descriptions": [
+          "Demiverse Technology Co., Ltd. is committed to the in-depth development of the Web3.0 blockchain industry, pays attention to the industrial problems faced by the blockchain industry, and creates high-quality and valuable from three aspects: popular education, enterprise management, and media content delivery."
+        ]
+      },
+      "Red_Pill_Lab_Limited": {
+        "title": "Red Pill Lab Limited.",
+        "descriptions": [
+          "Red Pill Lab applies AI and deep learning to optimize the workflow of live avatars. Our mission is to lower the cost of conventional motion capture. The main market of Red Pill Lab is down Northeast Asia, our product Red Pill Live has been sold to nine countries worldwide. The ultimate goal of is to expand our AI technology to various platforms and build the portal for people to enter Metaverse."
+        ]
+      },
+      "MaiCoin_Group": {
+        "title": "MaiCoin Group",
+        "descriptions": [
+          "MaiCoin Group, founded in 2013, is Taiwan's largest legal digital asset trading group employing blockchain technology.",
+          "Currently, MaiCoin Group provides digital asset transactions, crypto-related products or services, and enterprise blockchain applications. Our businesses include MaiCoin, MAX, AMIS, Qubic NFT and MaiCapital."
+        ]
+      },
+      "TianYen_Inc": {
+        "title": "TianYen Inc.",
+        "descriptions": [
+          "As a new media technology company that has been developing for nearly a decade, TianYen focuses on developing Mixed-Reality Projection Mapping technology and Interactive Entertainment design.",
+          "We are committed to introducing immersive user experience into a variety of space and scenarios, to create \"Mixed-Reality Metaverse\" applications and business model."
+        ]
+      },
+      "Panelsemi_corp": {
+        "title": "Panelsemi corp.",
+        "descriptions": [
+          "Panel Semi is the first provider of the Panel Foundry Business Model around global, which support customer to adopt an ecosystem of TFT-LCD resources for product innovation.",
+          "We build the 3rd Gen. Display technology, flexible/roll-able & logo-like multitiling. We are eager to solve the pain points of existing Advertisements, to create extraordinary business model to Metaverse, Virtual Human, and Telepresence.",
+          "We believe our display can helps indoor media in Europe companies who wants to regain people’s attention by increasing locations for digital displays by enabling customization, reducing installation time, drawing people’s eyeballs to the advertisements."
+        ]
+      }
+    },
+    "Company": {
+      "Dentsu_Inc": "Dentsu Inc.",
+      "MicroAd_Taiwan": "MicroAd Taiwan",
+      "Omnicom_Media_Group": "Omnicom Media Group",
+      "Publicis_Groupe_Taiwan": "Wunderman Thompson",
+      "Volkswagen_Group_Taiwan": "Audi Taiwan",
+      "Hakuhodo_Zeta_Inc": "HAKUHODO ZETA INC.",
+      "Dentsu_Taiwan_Inc": "Dentsu",
+      "Mindshare": "Mindshare",
+      "MaiCoin_Group": "MaiCoin Group",
+      "CacaFly": "cacaFly"
+    }
+  },
+  "Registration": {
+    "title": "Registration",
+    "Taiwan_Delegates": {
+      "title": "Local Delegates",
+      "time": "Registration Time: Effective from now until November 11",
+      "price_list": [
+        "Participate Onsite Ticket NT$3,000 (can enter both virtual & physical events)",
+        "Online Ticket NT$1,500",
+        "Student Ticket NT$1,000"
+      ],
+      "button": "Register Now"
+    },
+    "AFAA_Members": {
+      "title": "AFAA Member",
+      "subtitle": "Join online",
+      "Section1": {
+        "title": "Registration Credential",
+        "descriptions": [
+          "DigiAsia2022 offers 200 FREE tickets for AFAA Members",
+          "& whom Registers through the local AFAA organization.",
+          "(According to the order of registration. First come, first served basis)"
+        ]
+      },
+      "Section2": {
+        "title": "Registration Time",
+        "descriptions": [
+          "Effective from now until October 31"
+        ]
+      },
+      "Section3": {
+        "title": "Register Event",
+        "descriptions": [
+          "Please download the Registration form. After complete the required information,",
+          "kindly provide to the local AFAA organization.",
+          "They will follow up the details."
+        ]
+      },
+      "button": "Download the Registration Form"
+    },
+    "IAA_Members": {
+      "title": "IAA Members",
+      "subtitle": "Join online",
+      "time": "Registration Time: Effective from now until November 11",
+      "price_list": [
+        "Strategic Cooperation USD250"
+      ],
+      "button": "Register Now"
+    },
+    "International_Delegates": {
+      "title": "International Delegates",
+      "subtitle": "Join online",
+      "time": "Registration Time: Effective from now until November 11",
+      "price_list": [
+        "Regular Fee USD500"
+      ],
+      "button": "Register Now"
+    }
+  },
+  "Speakers": {
+    "title": "Speakers",
+    "Day1": {
+      "1": {
+        "time": "10:20-11:00",
+        "name": "Heiji Shinke",
+        "company": "Dentsu Inc.",
+        "position": "XRX Studio Activation Producer/Planner",
+        "topic": "TOKYO GAME SHOW VR 2022",
+        "intro": [
+          "Graduated from Tokyo Institute of Technology, joined Dentsu. After working as a planner in the promotion division, handling campaigns and events, and as a business producer for a telecommunications company, became a producer/planner in the XR domain in 2020.",
+          "In 2021, participated in the launch of the Dentsu Group cross-sectional organization \"XRX STUDIO\".",
+          "In 2021, he was also the main producer of the Tokyo Game Show VR, which was held for the first time, and in 2022, as the project leader."
+        ]
+      },
+      "2": {
+        "time": "11:00-11:40",
+        "name": "Bull Hsu",
+        "company": "Yahoo",
+        "position": "Manager of Media Group",
+        "topic": "Unlimited Possibilities of Video Shooting of Metaverse Generations",
+        "intro": [
+          "The producer of Yahoo TV program who creates Taiwan’s first virtual Internet celebrity “Hu Ni” by integrating AR, VR, Mocap motion capture and virtual production broadcasting and other related technologies. He creates a new generation of video shooting technology for the Metaverse generation, initiating infinite possibilities of video and audio creativity."
+        ]
+      },
+      "3": {
+        "time": "11:40-12:00",
+        "name": "Nack-Hoi Kim",
+        "company": "ADASIA 2023 Seoul Organizing Committee",
+        "position": "General Chair",
+        "topic": "ADASIA 2023 Seoul Roadshow",
+        "intro": [
+          "NackHoi Kim, the chairman of Korea Federation of Advertising Associations(KFAA), is leading AdAsia 2023 Seoul organizing committee as a general chair. He was a president of Cheil Worldwide since 2007 to 2013. He has contributed for the development of Advertising industry in Korea continuously through diverse organization such as Korea Association of Advertising Agencies(KAAA) and Korea Marketing Club(KMC)."
+        ]
+      },
+      "4": {
+        "time": "11:40-12:00",
+        "name": "Ben Heo",
+        "company": "ADASIA 2023 Seoul Organizing Committee",
+        "position": "Secretary General",
+        "topic": "ADASIA 2023 Seoul Roadshow",
+        "intro": [
+          "Dr. Ben Heo is Secretary-General of Adasia 2023 Seoul Organizing Committee. He is now a professor at Hanshin University, Korea. Before joining the Committee, he worked in a core management position at Cheil Worldwide and spearheaded to building of Samsung Electronics into the global and prominent brand it is today. During his tenure in Cheil, he founded Cheil India and made a significant contribution to the development of Cheil America."
+        ]
+      },
+      "5": {
+        "time": "13:20-14:00",
+        "name": "Bharat Khatri",
+        "company": "Omnicom Media Group",
+        "position": "Chief Digital Officer, Omnicom Media Group, APAC",
+        "topic": "Transition to Web 3.0",
+        "intro": [
+          "A strategic digital marketer with more than a decade of experience across digital and sales domains, Bharat was previously the Country Head for Xaxis in India, where he oversaw programmatic capabilities and collaborated with over 150 active advertisers across multiple industries. As the Chief Digital Officer of Omnicom Media Group APAC, he collaborates with OMG leaders in APAC to accelerate the adoption of integrated digital strategy, with a focus on leveraging technology to drive efficiency and creativity at scale across digital channels."
+        ]
+      },
+      "6": {
+        "time": "14:00-14:40",
+        "name": "Surya Kotha",
+        "company": "XLenz Inc, USA",
+        "position": "CEO",
+        "topic": "Augmented Reality: The next big wave of Digital Transformation",
+        "intro": [
+          "Surya has been a digital transformation advisor to many C-level executives of fortune 500 companies. His multi-billion-dollar customer list includes Intel, Apple, ADP, Bosch, Cirrus Logic, Coke, Office Depot, US Government, GSA, Swiss Bank, PGE to name a few. Surya also served as mentor and advisory board member to various IT start-up companies in US and India."
+        ]
+      },
+      "7": {
+        "time": "14:40-15:20",
+        "name": "Justin Peyton",
+        "company": "Wunderman Thompson Asia Pacific",
+        "position": "Chief Strategy & Transformation Officer",
+        "topic": "Loyalty in the age of Web3 ",
+        "intro": [
+          "Justin is a strategic marketing leader who helps brands and business connect the dots between today’s emerging technologies and tomorrow’s marketing and business opportunities. In his role as Chief Transformation and Strategy officer for Wunderman Thompson APAC, he leads the regional technology, data, commerce, customer experience, and brand strategy practices, bringing these teams together to unlock the latent potential of brands through innovative new services, business models, engaging experiences, and creative content.",
+          "Justin has joined the Web3 Marketing Association as a founding advisor. He previously served as Co-Chair of the Board for the IAB SEA and India."
+        ]
+      },
+      "8": {
+        "time": "15:40-16:20",
+        "name": "Rahil Ansari",
+        "company": "Audi Taiwan",
+        "position": "Chief Executive Officer of Volkswagen Group Taiwan and Managing Director of Audi Taiwan",
+        "topic": "The new generation of digitalization in automotive industry",
+        "intro": [
+          "Rahil Ansari has been Senior Director of Central Controlling Sales, Digital and New Business since 2019. Since November 2020, he has officially taken over as the Chief Executive Officer of Volkswagen Group Taiwan and Managing Director of Audi Taiwan.",
+          "He joined Sales Controlling department at AUDI AG in 2004. In 2006, he was transferred to India as a Country Sales Manager. Leading sales and production line units in India, he assisted Audi to establish a branch in India market.",
+          "He joined the Audi India team in 2011 as the Head of Dealer Development and continued to serve in after sales department about 4 years. In 2017, he received a new mission as the Managing Director of Audi India."
+        ]
+      },
+      "9": {
+        "time": "16:20-17:00",
+        "name": "Alex Kim",
+        "company": "The SMC Group",
+        "position": "CEO",
+        "topic": "Short form video & play content",
+        "intro": [
+          "Alex is the founder and CEO of The SMC Group, which is one of the most successful social media marketing agencies in Korea. With over a dozen years of the social media advertising industry, The SMC has been working and making meaningful connections with numerous Korean corporations and brands such as Samsung, CJ Group, LG, et cetera. They are rapidly extending their business and overwhelming the field, reaching their total sales around 80 million dollars last year. Their work widely covers the operation and management of a brand social campaigns, influencer marketing, e-commerce, and platform business."
+        ]
+      },
+      "10": {
+        "time": "17:00-17:30",
+        "name": "Henry Park",
+        "company": "KRAFTON Inc.",
+        "position": "Head of NFT Metaverse",
+        "topic": "Introduction of Project Migaloo",
+        "intro": [
+          "Consultant, Boston Consulting Group",
+          "Team Leader of Corporate Strategy, KRAFTON",
+          "Team Leader of Web 3.0 Roundtable, KRAFTON",
+          "Head of NFT Metaverse, KRAFTON"
+        ]
+      }
+    },
+    "Day2": {
+      "1": {
+        "time": "09:30-10:10",
+        "name": "Itaru Sato",
+        "company": "HAKUHODO ZETA INC.",
+        "position": "Vice President / Executive Strategic Planning Director",
+        "topic": "Sei-katsu-sha Insight in the Web3 era",
+        "intro": [
+          "Since joining HAKUHODO Inc., he has participated in the planning and execution of marketing strategies for large companies in Japan and abroad in the fields of beverages, automobiles, finance, and pharmaceuticals.",
+          "Resided in Shanghai since 2016, he has been engaging in Japanese/local customer service support, overseas base operation support, talent cultivation, and knowledge development in the Chinese region.",
+          "He has practical experience in co-developing data solutions with media platforms while working in the Data, Drive, and Planning Department at the headquarters. He holds a post in Taiwan starting from the year of 2022."
+        ]
+      },
+      "2": {
+        "time": "10:10-10:50",
+        "name": "Erin Chao",
+        "company": "Twitch",
+        "position": "Head of Sales, Taiwan, Twitch",
+        "topic": "Advertising in emerging culture: Forget what you think you know",
+        "intro": [
+          "Erin Chao started her digital marketing journey as a Product Manager with Yahoo in USA in 2006 to build and roll out advertising products globally, and then Head of Platform who launched Yahoo DSP and SSP business in APAC to empower customers and partners with technology and data. Then she joined Appier in 2019 as VP of Global Account Management to deliver customer success in digital marketing via AI-driven solutions and services. From America to APAC, and from Product Management to Sales, Erin speaks both languages of technology and commercial and has been dedicated her career to connect the two to create values for customers and consumers."
+        ]
+      },
+      "3": {
+        "time": "10:50-11:30",
+        "name": "Asher Rapkin",
+        "company": "Meta",
+        "position": "Director, Global Business Marketing",
+        "topic": "The Road to the Metaverse for Business",
+        "intro": [
+          "Asher Rapkin is Meta’s Director, Global Business Marketing – Facebook app and Emerging Platforms. Prior to taking on this role, Asher led Global Business Marketing for Messenger and WhatsApp and was the Product Marketing Communications Lead for Platforms and SMB on Meta’s Global Business Marketing team."
+        ]
+      },
+      "4": {
+        "time": "10:50-11:30",
+        "name": "Roger Chang",
+        "company": "Meta",
+        "position": "Creative Strategist",
+        "topic": "The future of connection-from mobile to metaverse",
+        "intro": [
+          "As a Creative strategist in Meta GCR, Roger mainly focus on exploring the creative canvases of different technologies on Meta platforms to help businesses better market themselves. This includes AI, AR, VR and what we call conversational commerce on Messenger. And also bringing those learning back to share with our internal team to further utilise Meta’s product and find creative opportunities for the future potentiality."
+        ]
+      },
+      "5": {
+        "time": "11:30-12:10",
+        "name": "Angela Chen",
+        "company": "LINE Taiwan Limited",
+        "position": "Marketing Head of LINE Taiwan",
+        "topic": "LINE : Digital Civilization / Literacy - Closing the Digital Divide",
+        "intro": [
+          "Angela Chen has been the Brand and Marketing Head of LINE Taiwan since January 2019. She has been leading an extensive team of branding, O2O marketing, content marketing, audience marketing and B2B marketing. Her team members serve as brand/marketing consultants supporting family services such as LINE Shopping, LINE Gift, LINE Taxi, to develop the positioning, GTM campaigns, communication strategies. Under LINE’s corporate mission of “Closing the Distance” and vision of “Life on LINE”, she is also leading several flagship OMO curation campaigns integrating family services and ESG campaigning aiming to showcase the power of LINE’s solution on supporting SMB and local community for digital transformation.",
+          "Prior to joining LINE, Angela has over 20 years of experiences in the FMCG & tech industry, at companies like Unilever, Microsoft, Nokia, Yahoo!, and Gogoro. Angela has an MBA degree from Kellogg School of Management at Northwestern University, as well as a BS degree from National Taiwan University."
+        ]
+      },
+      "6": {
+        "time": "13:30-13:50",
+        "name": "John D Chacko",
+        "company": "45th IAA World Congress, Penang, Malaysia 2024/ International Advertising Association",
+        "position": "Chairman, IAA World Congress 2024",
+        "topic": "IAA World Congress 2024 Penang Roadshow",
+        "intro": [
+          "John is a 40-year veteran of Branding and Marketing and started his marketing career in Kraft Foods Australia before joining Coca-Cola where he was Director of Marketing for several divisions across Europe, Middle East, Latin America and Asia Pacific before Joining at CMO, MD & CEO for Khazanah entities in Malaysia. ",
+          "He has served as Judge, Jury Chairman for the Malaysian Effie Awards, APPIES and CMO Awards. He is President of the International Advertising Association Malaysia, Global VP Education and IAA World Board Director. He is also Adjunct Professor at UiTM Faculty of Communication and Media Studies, and Chairman of the IAA 45th World Congress to be held in Penang, Malaysia in 2024. "
+        ]
+      },
+      "7": {
+        "time": "13:50-14:20",
+        "name": "Hiroyuki Oka",
+        "company": "CNN",
+        "position": "Account Director for CNN International Commercial",
+        "topic": "Responsibility & Engagement- From output driven to purpose driven",
+        "intro": [
+          "Hiroyuki Oka is Account Director for CNN International Commercial, responsible for the Japan and Taiwan market. Based in Tokyo, Oka is responsible for CNN International Commercial’s dynamic advertising sales business in Japan and Taiwan while working closely with key clients, agency stakeholders and CNN International’s global leadership team. His role includes Country Manager for Taiwan market to expand potential revenues from the region. Hiroyuki manages some of CNNIC’s key clients, which he spearheads cross-functional collaboration internally and externally to provide best in class solutions for brands. He holds a degree in Economics from Pennsylvania State University."
+        ]
+      },
+      "8": {
+        "time": "14:20-15:10",
+        "name": "Shotaro Kobayashi",
+        "company": "MicroAd,Inc",
+        "position": "ID Solution Department /General Manager",
+        "topic": "web3.0 x The future of Advertising",
+        "intro": [
+          "Used to served as the deputy general manager of the sales department in MicroAd Japan. Was responsible for brand customer development and APP development, serving more than 150 clients in two years. Since 2022, he has served as the head of the ID Solutions Department, and in response to the advent of the post-cookie era, he will continue to move towards Web3 product developing and provide related support for various ID solutions."
+        ]
+      },
+      "9": {
+        "time": "15:30-16:10",
+        "name": "Dr. Ju-Chun Ko",
+        "company": "Dentsu",
+        "position": "Web3 Growth Consultant",
+        "topic": "Dive in M3TAVR$",
+        "intro": [
+          "•  Dentsu Taiwan Web3 Growth Consultant",
+          "•  One of the 21 “Most Influential People of the Year” in Taiwan’s blockchain industry",
+          "•  Top#1 Tech Podcast in Taiwan “dAAAb in Tech” with over 3 million downloads"
+        ]
+      },
+      "10": {
+        "time": "16:10-16:50",
+        "name": "Denise Seligsohn",
+        "company": "Google",
+        "position": "Google APAC Privacy and Operations Lead",
+        "topic": "Privacy/ User centric measurement",
+        "intro": [
+          "Denise leads the go-to-market strategy and operations to drive product privacy readiness across marketers, publishers, and ad partners in the region. She ensures a unified narrative across durable privacy solutions and the prioritization of future technology solutions while preserving users’ privacy.  ",
+          "With over 12 years of experience at Google, Denise has built deep knowledge of the App Ads and Ad-serving & Programmatic business, having previously led roles as APAC Product Lead for App Ad solutions and Sales Media Buying Solutions Manager in Spain.",
+          "Before joining Google, Denise worked at Yahoo! Iberia and has also acted as guest lecturer at the IAB Master’s Degree and at the Complutense University in Spain."
+        ]
+      },
+      "11": {
+        "time": "16:50-17:30",
+        "name": "Bolin Wang",
+        "company": "Mindshare",
+        "position": "Managing Director of content+",
+        "topic": "Metaverse and Brandverse",
+        "intro": [
+          "Bolin Wang heads up the innovation content solutions department at Mindshare, Content+. Content+ exists for the sole purpose to create branded experiences for consumers that they really care about.",
+          "In 10 years, he has transformed a two members start-up into a 30 members team of diverse specialists with a range of expertise. Under his leadership, they deliver IP-based pan-entertainment engagement solutions across sponsorship, interactive video, gaming, e-sports, live streaming, short-form video, social commerce activation, offline experience, and much more."
+        ]
+      },
+      "12": {
+        "time": "16:50-17:30",
+        "name": "Jay Gaddi",
+        "company": "Mindshare",
+        "position": "Head of Content",
+        "topic": "Are Taiwan brands ready for Web 3.0? (TBC)",
+        "intro": [
+          "Jay Gaddi is leading Mindshare Taiwan’s specialized integrated marketing team, Content+. A seasoned marketer, based in Taiwan for over 15 years, Jay has helped brands in Taiwan across various industries including FMCG, automotive, health & wellness, and QSR. ",
+          "With a date-led approach to content/creative strategy & ideation his projects have included marketing activities such as brand co-ops, influencer marketing, media co-ops, advertorials, PR, social media, outdoor activation and new product launches."
+        ]
+      },
+      "13": {
+        "time": "17:30-17:50",
+        "name": "Hao Chen",
+        "company": "MaiCoin Group",
+        "position": "Head of Product, Qubic, MaiCoin Group",
+        "topic": "Guide for Metaverse Marketing Trends",
+        "intro": [
+          "The Metaverse is here to stay. Brands worldwide are sharpening their knives and testing out the waters to drive their businesses. But how shall brands avoid marketing cliches and strategize an exclusive, yet effective META FORCE? How will Gen Z’s fascination for digital collectibles determine the battleground of Mobile App Marketing in the next decade?",
+          "Hao Chen (A9), Product head of Qubic, an NFT marketplace solution under MaiCoin Group, will share his experiences in enabling over 100 brands to issue NFTs in the past year and offer a whole new perspective on brand growth via NFT marketing."
+        ]
+      }
+    },
+    "Day3": {
+      "1": {
+        "time": "09:30-10:10",
+        "name": "Yan Lee",
+        "company": "cacaFly",
+        "position": "Ecosystem Development Advisor ",
+        "topic": "Brands x Web 3: The way forward",
+        "intro": [
+          "Yan is an entrepreneur turned Venture Builder, early stage investor and veteran in Data & AI, and extremely passionate in working with top Taiwanese talent to foster the next wave of Unicorn technopreneurs of Taiwan. ",
+          "Prior to starting Hive Ventures, Yan was Chief Product Officer and Head of International business of iClick Interactive (NASDAQ: ICLK), spearheading product innovations and driving business growth globally. Yan was also the Founder and CEO of Buzzinate, China’s leading Data platform and service provider that merged with iClick in 2014.",
+          "The success of Buzzinate also led Yan to be honored as “Forbes’ 30 under 30 Entrepreneurs of China” in 2012 as well as Campaign Asia’s 40 under 40 in 2018. Yan holds an MBA from China Europe International Business School (CEIBS), and is an alumnus of London Business School (LBS) and National Cheng Chi University (NCCU)"
+        ]
+      },
+      "2": {
+        "time": "10:10-10:50",
+        "name": "Liu Szu-ming",
+        "company": "HTC VIVE ORIGINALS",
+        "position": "President of HTC VIVE ORIGINALS",
+        "topic": "Light the Night of the Metaverse",
+        "intro": [
+          "A well-known professional traversing the industries of pop music, film and television, media and virtual reality, Liu Szu-ming is the president of HTC VIVE ORIGINALS. In 2019, he directed the VR work INORI which was nominated by the 76th Venice Film Festival, and participated in the joint production of the VR animation Gloomy Eyes which was awarded the Grand Prix at the Annecy International Animated Film Festival, and nominated at the 76th Venice Film Festival. In 2018, he produced the VR film 5x1, and invited Hou Hsiao-hsien and Liao Ching-song to act as executive producers. At the 76th Venice Film Festival, two out of five films of the project, O and Only the mountain remains, were nominated, and another film, The Making of, was selected by the “Out of Competition/Best Of VR” section. He also served as the producer and music director of the 78th Venice Film Festival VR Expanded selection The Sick Rose. In 2022, BEATDAY, the music metaverse platform, and The Sick Rose both were selected into the SXSW XR Experience program.",
+          "His experience in pop music songwriting and production includes writing the lyrics of more than 100 songs, such as Wakin Chau’s Friends and A-Mei’s Can’t Cry. He was the Director of the Programs Department at TVBS and the president of the Original Production Center at new media platform Tudou.com."
+        ]
+      },
+      "3": {
+        "time": "10:50-11:50",
+        "name": "Lman Chu",
+        "company": "BiiLabs Co., Ltd.",
+        "position": "CEO",
+        "topic": "Host",
+        "intro": [
+          "Lman Chu is CEO of BiiLabs. He has more than 20 years experience in the Hardware & software fields. Under his leadership, BiiLabs participated into W3C DID as the contributor. Work with the IOTA Foundation for the UNID project before."
+        ]
+      },
+      "4": {
+        "time": "10:50-11:50",
+        "name": "Joseph Wang",
+        "company": "OSENSE TECHNOLOGY CO., LTD.",
+        "position": "CEO&Founder",
+        "topic": "Panelists",
+        "intro": [
+          "Joseph, a serial entrepreneur, is passionate about disruptive technologies, especially among spatial recognition, AI and AR technologies, taking ideas from concept to reality. He established OSENSE technology in 2017 and kept working on turning innovation into enduring value, aiming to become the first unicorn in the spatial recognition technology industry. “I will lead the team to develop products and services that people all over the world will benefit!” Joseph said."
+        ]
+      },
+      "5": {
+        "time": "10:50-11:50",
+        "name": "Ben Ho",
+        "company": "NoPFP Lab",
+        "position": "CEO",
+        "topic": "Panelists",
+        "intro": [
+          "Ben founded Lychee Intelligence in 2017 and established a popular Line marketing platform. He has also assisted many well-known companies in building chatbots and AI-related systems. In 2021, he started to join the blockchain industry development."
+        ]
+      },
+      "6": {
+        "time": "10:50-11:50",
+        "name": "Gene Huang",
+        "company": "Demiverse Technology Co., Ltd.",
+        "position": "CEO",
+        "topic": "Panelists",
+        "intro": [
+          "GeneHuang, the early BAYC Holder, founded Taiwan's first autonomous organization in the name of DAO, Taiwan DAO, and later founded Taiwan's largest NFT cult Web3 community Demi-Human NFT, currently serving as the CEO of Demiverse Technology Co., Ltd."
+        ]
+      },
+      "7": {
+        "time": "10:50-11:50",
+        "name": "RH Shih",
+        "company": "Red Pill Lab",
+        "position": "CEO&Co-Founder",
+        "topic": "Panelists",
+        "intro": [
+          "RH graduated from CS School of Carnegie Mellon University. He has more than 15 years of experience in the application of cutting-edge computer graphics technology and entertainment industry in the United States, Taiwan, Hong Kong, and has a complete team leadership and experience. In 2017, he co-founded Red Pill Lab with Dobry Todorov. Red Pill Lab focuses on AI software development to speed up the pipeline of mocap and character animation to real-time level."
+        ]
+      },
+      "8": {
+        "time": "13:00-14:30",
+        "name": "Brian Yang",
+        "company": " cacaFly",
+        "position": "Co-Founder & Chief Strategy Officer",
+        "topic": "Host",
+        "intro": [
+          "Brian is the cofounder and chief strategy officer for cacafly.com, a leading digital marketing firm with operations in Taiwan and SEA. Previously he had worked in strategic investment/corp development divisions on NYSE and EU-listed companies, overseeing over 200m usd cross-border investment in AI/AR/VR/Martech.sectors. Mr. Yang is got his EE degree from NCTU and MBA from Cambridge University, UK"
+        ]
+      },
+      "9": {
+        "time": "13:00-14:30",
+        "name": "Shawn Chu",
+        "company": "500 Global",
+        "position": "Principal",
+        "topic": "Judge",
+        "intro": [
+          "Shawn Chu is a Principal at 500 Global. Previously, he had over ten years of experience in venture capital and the Taiwan startup ecosystem. He received a B.S. in Physics from National Taiwan University and a M.S. in Electrical and Computer Engineering from University of Wisconsin - Madison. In his current role, Shawn is working to discover and support startups and founders with high potential in Taiwan."
+        ]
+      },
+      "10": {
+        "time": "13:00-14:30",
+        "name": "Tina Cheng",
+        "company": "Cherubic Ventures",
+        "position": "Managing Partner",
+        "topic": "Judge",
+        "intro": [
+          "Tina is the managing partner at Cherubic Ventures. Tina leads Cherubic’s overall investment and portfolio management operation globally. She’s one of the earliest members of Cherubic and has helped grow the fund and build the team from 0 to 20 members across the world. Prior to joining Cherubic Ventures, Tina worked as a business consultant in a consulting firm and later on co-founded an education startup in Asia. Tina held an MBA degree from UCLA Anderson."
+        ]
+      },
+      "11": {
+        "time": "13:00-14:30",
+        "name": "Jason Lu",
+        "company": "Darwin Venture",
+        "position": "Director",
+        "topic": "Judge",
+        "intro": [
+          "Jason joined Darwin Venture in January, 2020, in charge of investment in digital economy, data, software, and automotive related industry. The investment range from seed to series B stage. Since 2022, Jason serves as director of Darwin Angel Investment fund. Due to the endeavor in digital economy, Jason also serves as the Director of Taiwan Digital Media Association.",
+          "From 2012 to 2019, Jason served as the manager of Garage+ incubator and liaison office of Massachusetts Institute of Technology (MIT) at Epoch Foundation. Prior to Garage+, Jason used to work at YFY Group (Yuen Foong Yu) for new business development from 2005 to 2007. Jason also joined 3 start-ups in mobile and telecom industries between 2007 and 2010. He also served as advisor and mentor in several universities, companies, and government projects in recent years."
+        ]
+      },
+      "12": {
+        "time": "13:00-14:30",
+        "name": "Yan Lee",
+        "company": "Hive Ventures",
+        "position": "Founding Partner",
+        "topic": "Judge",
+        "intro": [
+          "Yan is an entrepreneur turned Venture Builder, early stage investor and veteran in Data & AI, and extremely passionate in working with top Taiwanese talent to foster the next wave of Unicorn technopreneurs of Taiwan.",
+          "Prior to starting Hive Ventures, Yan was Chief Product Officer and Head of International business of iClick Interactive (NASDAQ: ICLK), spearheading product innovations and driving business growth globally. Yan was also the Founder and CEO of Buzzinate, China’s leading Data platform and service provider that merged with iClick in 2014.",
+          "The success of Buzzinate also led Yan to be honored as “Forbes’ 30 under 30 Entrepreneurs of China” in 2012 as well as Campaign Asia’s 40 under 40 in 2018. Yan holds an MBA from China Europe International Business School (CEIBS), and is an alumnus of London Business School (LBS) and National Cheng Chi University (NCCU)"
+        ]
+      },
+      "13": {
+        "time": "13:00-14:30",
+        "name": "Ivan Li",
+        "company": "RED BUILDING CAPITAL",
+        "position": "Co-founder",
+        "topic": "Judge",
+        "intro": [
+          "Ivan Li is a blockchain and financial expert, and co-founder of Red Building Capital. He holds his bachelor’s degree and master’s degree in material science specializing in semiconductors from National Taiwan University. Published his research paper on innovative ways to improve semiconductor layer deposition on the international platform. After graduated from NTU, Ivan worked as an R&D engineer developing 20nm chips in Taiwan Semiconductor Manufacturing Company. He is a serial entrepreneur who has startup experiences in Shanghai, Berlin, and Taiwan. He has led a team of more than 20 people in China and has more than 10 years of experience in the stock market."
+        ]
+      }
+    }
+  },
+  "NftBazaar": {
+    "title": "NFT Bazaar",
+    "description": "DigiAsia 2022 was grandly held. In addition to the limited airdrop NFT, it also called on advertising marketing, creative, digital elites, and young creators to jointly respond to the design. With the theme of this year’s conference “Web3 Rhapsody Rhapsody”, outstanding design works were displayed in the DigiAsia virtual exhibition hall and the Floral Expo New Fashion Pavilion to record the imagination of contemporary creators for WEB3. NFT works casting, listing and charity sales were also conducted for taking part in DigiAsia 2022 to enjoy the event of Web3 Rhapsody.",
+    "Purchase_link": {
+      "Twd": {
+        "text": "purchase with NTD",
+        "link": "https://digiasia2022.qubic.market/"
+      },
+      "Eth": {
+        "text": "purchase with ETH",
+        "link": "https://digiasia2022.qubic.market/crypto"
+      }
+    },
+    "Fqa": {
+      "1": {
+        "title": "What is NFT?",
+        "descriptions": [
+          "• NFT is a kind of digital commodity, and since each NFT has unique and tamper-resistant characteristics, it is often used for digital collection or identity authentication. This workshop collects creations and casts, and it is hoped that by virtue of the nature of NFT, special identification, empowerment and digital preservation can be provided during the exhibition to record everyone’s imagination of WEB3 Rhapsody in 2022."
+        ]
+      },
+      "2": {
+        "title": "Which blockchain is this project NFT issued by?",
+        "descriptions": [
+          "Ethereum"
+        ]
+      },
+      "3": {
+        "title": "What is empowerment? What is the NFT empowerment of this charity sale?",
+        "descriptions": [
+          "Apart from the value of art, commemoration and collection, additional extra functions, or rights to NFT are called empowerment. Participants who purchase this NFT creation exhibition can get additiona",
+          "① Join the event on site and redeem a limited edition T-shirt at the event site",
+          "② Hold the NFT image you own at the event site and check in with an interactive device in real time",
+          "③ Offer your wallet of Polygon chain after purchasing, then MetaCity M will airdrop NFT game props later so that you can use the real estate appearance “Japanese Style Fantasy | Qinghe House” in the game (one wallet address can only be obtained, you may fill in different Polygon wallet addresses for having purchased multiple works)"
+        ]
+      },
+      "4": {
+        "title": "What is a wallet? Do I need a wallet to buy NFTs?",
+        "descriptions": [
+          "Wallets are used in WEB 3 to store cryptocurrencies and NFTs; therefore, wallets are required for paying and safekeeping your digital goods. The project cooperates with Qubic and requires Qubic Wallet to create a wallet. You can choose to pay with ETH or buy digital collectibles directly with a credit card."
+        ]
+      },
+      "5": {
+        "title": "Can I return it after purchase?",
+        "descriptions": [
+          "Since NFT products are digital products, which are inconsistent with general online shopping products. Returns cannot be provided once completing your transaction."
+        ]
+      },
+      "6": {
+        "title": "Can I resell after purchase?",
+        "descriptions": [
+          "Since our NFT runs on the Ethereum ether chain, you can buy and sell it on a third-party trading platform (such as Opensea, Looksrare, etc.) after owning it, but only the owner who buys it from the official side can get the empowerment provided by the workshop."
+        ]
+      }
+    }
+  },
+  "NftRedeem": {
+    "title": "NFT Redeem",
+    "nft_collection_name": [
+      "DigiAsia 2022",
+      "Commemorative NFTs"
+    ],
+    "nft_limited": "Limited to 1,080 models",
+    "description": "The DigiAsia 2022 will airdrop commemorative NFTs for attendees, with a total of 1,080 variational articles, and accompany attendees to explore the world of WEB 3 with DigiBaby’s curiosity.",
+    "Schedule": {
+      "Opening": {
+        "day": "11/15.TUE",
+        "description": "Open for collection at 12:00 noon"
+      },
+      "Reveal": {
+        "day": "11/17.THU",
+        "description": "Unlock at 9:00 am"
+      },
+      "Ending": {
+        "day": "12/07.WED",
+        "description": "00:00 Minting close"
+      }
+    },
+    "nft_mint_button_text": "Mint Now",
+    "Nft_mint_instructions": {
+      "title": "Mint instructions",
+      "Steps": {
+        "1": "Step 1：Click \"Mint Now\" and go to the Tix Passport registration page",
+        "2": "Step 2：Register with the email you filled in during signup, and follow the prompts to complete the registration",
+        "3": "Step 3：After logging in with email, go to \"Settings\" > \"Account\" > Wallet.",
+        "4": "Step 4：Click \"Create a wallet\" and setup the wallet password. You must remember the password or write it down by hand",
+        "5": "Step 5：You will see the items that qualify you for the airdrop on the “Favorites > Unclaimed” page. If it is not displayed, please confirm whether your registered email is the same as the activity registration email",
+        "6": "Step 6：Click claim to complete the airdrop"
+      }
+    },
+    "Nft_empowerment": {
+      "title": "Empowerment",
+      "Steps": {
+        "1": "1.During the forum from November 17th to November 19th, you can directly open the \"Tix Passport\">\"Tickets\" to show the QR code and enter the venue with NFT",
+        "2": "2.We'll draw 450 lucky participants who have completed the minting. MetaCity M will airdrop game props NFT to the same Tix Passport wallet address, and they can use the property appearance in the game \"Japanese Style Fantasy | Qinghe House\""
+      }
+    }
+  },
+  "Contact_Us": {
+    "title": "Contact Us",
+    "name": "Taipei Association of Advertising Agencies (TAAA)",
+    "contact_person": "Contact us：Celia Liu / Joey Chen",
+    "tel": "Tel：+886-2-2727-6698 ext.106、101",
+    "fax": "Fax：+886-2-2727-9598",
+    "Email": {
+      "title": "Email：",
+      "address_1": "celialiu@taaa.org.tw",
+      "address_2": "joeychen@taaa.org.tw"
+    },
+    "address": "Address：21F., No.161, Songde Road, Xinyi District, Taipei City 11085, Taiwan"
+  },
+  "DigiAsia_Retrospect": {
+    "title": "DigiAsia Retrospect",
+    "link_2020": {
+      "title": "DigiAsia 2020",
+      "url": "http://digiasia.org.tw/2020/index_en.html"
+    },
+    "link_2018": {
+      "title": "DigiAsia 2018",
+      "url": "http://digiasia.org.tw/2018/en/index.html"
+    }
+  }
+}

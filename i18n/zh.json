@@ -1,0 +1,763 @@
+{
+  "Menu": {
+    "Experience_Hall": {
+      "title": "體驗大廳",
+      "children": {
+        "Online_Exhibition": "展覽大廳",
+        "Live_Conference": "直播會議廳",
+        "NFT_Bazaar": "NFT 創作展"
+      }
+    },
+    "About": {
+      "title": "大會介紹",
+      "children": {
+        "2022_Introduction": "2022 大會介紹",
+        "2020_Retrospect": "2020 大會回顧",
+        "2018_Retrospect": "2018 大會回顧"
+      }
+    },
+    "Activities": {
+      "title": "活動資訊",
+      "children": {
+        "Agenda": "活動內容",
+        "Speakers": "講者介紹"
+      }
+    },
+    "Tickets": {
+      "title": "大會票券",
+      "children": {
+        "Registration": "活動報名",
+        "NFT_Redeem": "NFT 兌換",
+        "Contact_Us": "聯絡我們"
+      }
+    }
+  },
+  "Indicators": {
+    "Experience_Hall": "體驗大廳",
+    "About": "大會介紹",
+    "Agenda": "活動內容",
+    "Speaker": "講者介紹",
+    "Registration": "活動報名"
+  },
+  "About": {
+    "title": "大會介紹",
+    "What_is_DigiAsia": {
+      "title": "什麼是DigiAsia？",
+      "descriptions": [
+        "《數位亞洲大會（DigiAsia）》於2014年誕生。這個由亞洲14個地區組成《Asian Federation of Advertising Associations（簡稱AFAA）亞洲廣告聯盟》授權台北市廣告代理商業同業公會（TAAA）所主辦的活動，每兩年於台北召開，是亞洲地區最具指標性的數位與創意國際盛會。",
+        "《數位亞洲大會（DigiAsia）》的宗旨是－創造一個全球最大的數位創意創新平台，做為亞洲與全球數位相關產業與產業之間的互動橋樑。並整合人文與科技，融合創意與創新，透過分享與學習，體驗與交流，以激勵亞洲數位精英，持續不斷地為人類更好的生活創新、創造及創業。"
+      ]
+    },
+    "Why_is_DigiAsia_important": {
+      "title": "DigiAsia為什麼重要？",
+      "descriptions": [
+        "《數位亞洲大會（DigiAsia）》是專屬亞洲地區的常態性會議，以數位為主軸聚集來自全世界各地的科技、管理、創意人才！將國際觀點與在地經驗透過演講座談、主題展覽展現成果、跨界交流，藉此提升數位知識與專業，尋求合作的機會，彼此激盪出創新火花！"
+      ]
+    },
+    "DigiBaby": {
+      "title": "認識 DigiBaby",
+      "descriptions": [
+        "2014年DigiBaby誕生！他是亞洲廣告聯盟（AFAA）的新生寶貝！他擁有傳統廣告的優良血統，但也吸收了數位新元素，是科技與人性的完美結合。DigiBaby永遠宛如新生嬰兒，隨時自我成長、自我進化，心永不改變！",
+        "2016年我們為DigiBaby添加科技感的俐落線條，描繪出幼兒的手腳，並以向前方邁進的動作來呈現他對世界的好奇心，以及向未知探索的渴望。2018年我們呼應大會「Experience AI」主題，在代表「Humanity」的DigiBaby頭上加入電路板，象徵人工智慧也將開始有人性。",
+        "2020年全球疫情影響，DigiBaby一起防疫戴上口罩，共同思考「Transformation—Under the new normal」後疫情時代產業轉型的方向與發展。",
+        "2022年隨著web3的環境及發展日益蓬勃，人們自由穿梭在虛實之間，創造出更多的應用，DigiBaby也增添能量並擁有不同面貌，邀請全亞洲一起解放想像、進入「Web3 Rhapsody」狂想世界，探索web 3 多元宇宙知識性、趣味性、故事性與浪漫的酷炫體驗!"
+      ]
+    },
+    "DigiAsia_2022": {
+      "title": "DigiAsia 2022簡介",
+      "descriptions": [
+        "在受到全球疫情仍持續影響的挑戰，DigiAsia 2022將採取虛實混合「數位」與「實體」並行方式舉辦，邀請國內外知名的專業講師，探討未來全球產業的轉機與發展，以及日後全球廣告行銷產業的變革和因應之道，活動會場亦有展覽及沉浸體驗區，讓民眾能親身體驗web3的獨特魅力。",
+        "此外，今年大會也將結合國內重大盛事「第十七屆台灣廣告節」，表揚長年在該領域耕耘的廣告行銷人才，並啟蒙新生代廣告人往後思想上的成長與躍進。活動將建置DigiAsia虛擬大廳，讓國內民眾及國際友人，透過線上平台有如身歷其境的參與精彩絕倫的論壇及體驗，一同見證台灣廣告人的殊榮。",
+        "今年大會主題「Web3 Rhapsody 狂想曲」，聚焦在「Media & Creative」、「Social & Experience」及「Economy & Application」，串聯產業生態系，探討數位生活體驗、媒體行銷的解決方案以及科技技術的創新應用，如：AR/VR, Metaverse, Crypto Economy, NFT, Immersive Entertainment, Gaming 等，呈現web3為產業帶來的開拓創新與新商業模式，突顯台灣軟體與硬體整合應用之實力。"
+      ]
+    },
+    "Organization": {
+      "title": "組織架構",
+      "subtitle": "DigiAsia 2022 數位亞洲大會籌備會",
+      "members": [
+        "台北市廣告代理商業同業公會(TAAA)理事長 盧炳勳會長",
+        "高雄市廣告代理商業同業公會(KAAA)理事長 吳東龍副會長",
+        "國際廣告協會台北分會(IAA)理事長 黃燕玲副會長",
+        "台北市廣告業經營人協會(4A)理事長 程懷昌副會長",
+        "台北市媒體服務代理商協會(MAA)理事長 李運華副會長",
+        "台灣數位媒體應用行銷協會(DMA)理事長 邱繼弘副會長",
+        "台灣暨臺北市公共關係協會(TIPRA)理事長 郭慶輝副會長",
+        "亞太行銷數位轉型聯盟協會(AMT)理事長 高端訓副會長"
+      ]
+    },
+    "DigiAsia_2022_Preparation_Committee": {
+      "title": "組織架構",
+      "subtitle": "DigiAsia 2022 數位亞洲大會籌備委員會",
+      "members": [
+        "顧問 段鍾沂",
+        "榮譽主任委員 鄧博文",
+        "主任委員 盧炳勳",
+        "籌備委員 黃逸甫",
+        "籌備委員 紀緻謙",
+        "籌備委員 謝中川",
+        "籌備委員 呂豐餘",
+        "籌備委員 陳秉鴻",
+        "籌備委員 張昱"
+      ]
+    }
+  },
+  "Agenda": {
+    "title": "活動內容",
+    "Text": {
+      "registration": "報到/進場",
+      "opening": "開幕式",
+      "closing": "閉幕式",
+      "vip_Speeches": "貴賓致詞/演講",
+      "break": "休息時間",
+      "panel_Discussion": "座談會",
+      "transition": "轉場",
+      "17th_AdTaiwan": "第十七屆台灣廣告節"
+    },
+    "Exhibition": {
+      "title": "展覽資訊",
+      "Yahoo": {
+        "title": "YAHOO",
+        "descriptions": [
+          "Yahoo致力於透過值得信賴的產品、內容與技術，讓全球近九億用戶更貼近財經、運動、購物、新聞和遊戲世界，驅動人們每天的生活。除了服務廣大網友，Yahoo也提供合作夥伴全方位解決方案，助其成長及拓展業務，並串接橫跨廣告、搜尋及媒體等具有價值的連結。更多訊息歡迎瀏覽Yahoo奇摩官方部落格。"
+        ]
+      },
+      "HTC_VIVE_ORIGINALS": {
+        "title": "HTC VIVE ORIGINALS",
+        "descriptions": [
+          "HTC VIVE ORIGINALS爲HTC VIVE旗下的內容品牌，致力於XR原創內容的製作與發行，運用容積攝影、區塊鏈、XR等核心技術，探索電影、藝術、音樂、元宇宙等領域發展。近年推出BEATDAY音樂元宇宙，從音樂產業出發，建構全方位的元宇宙生態系，希冀透過科技創意豐富人類的文化生活，開創Web3.0時代的娛樂體驗。"
+        ]
+      },
+      "LINE_Taiwan_Limited": {
+        "title": "LINE Taiwan Limited\n台灣連線股份有限公司",
+        "descriptions": [
+          "以通訊軟體為基礎，LINE致力為用戶打造全方位數位生活，將商業創新運用在各行動原生服務，從社群通訊、內容平台、影音娛樂、商務廣告，延伸到數位金融、人工智慧與新創領域。「拉近你我的距離」始終是我們的使命，我們希望讓用戶連結得更深、互動得更緊密，用LINE串起世界連結，共擁精彩生活。"
+        ]
+      },
+      "Meta": {
+        "title": "Meta",
+        "descriptions": [
+          "Meta 創建科技讓大家彼此聯繫、與社群連結並帶動商業發展。自Facebook 於 2004 年創立以來，已改變大家交流聯繫的方式。Messenger、Instagram 與 WhatsApp 等應用程式更進一步拉近全球數十億人的距離。現在，Meta 將跨出 2D 平面螢幕，邁向 AR (擴增實境) 與 VR (虛擬實境) 沉浸式體驗，協助建構全新進化的社群科技。"
+        ]
+      },
+      "OSENSE_TECHNOLOGY_CO_LTD": {
+        "title": "光禾感知科技股份有限公司",
+        "descriptions": [
+          "光禾感知科技以厚實的3D、XR 技術，打造富含無限可能的元宇宙！「OSENSE SPACE 元宇宙製造所」是高畫質虛擬空間平台，用戶可透過 3D 設計、實拍建模打造虛擬場域。空間具多種互動功能，並可串接錢包，舉辦各種規模的元宇宙活動。"
+        ]
+      },
+      "Demiverse_Technology_Co_Ltd": {
+        "title": "茶米宇宙科技股份有限公司",
+        "descriptions": [
+          "茶米宇宙科技股份有限公司 致力於 Web3.0 區塊鏈產業的深度發展，重視區塊鏈行業所面臨的產業問題，從普及教育、企業管顧、媒體，三個面向來打造優質且有價值的內容傳遞。"
+        ]
+      },
+      "Red_Pill_Lab_Limited": {
+        "title": "成境科技有限公司",
+        "descriptions": [
+          "成境科技由來自計算器圖學、AI 電腦視覺與連續創業家背景之三位創辦人所組成，自成立以來致力運用動作捕捉結合深度學習技術，優化即時角色動畫與生產流程，解決現有 3D 虛擬角色動畫製作費時、費力與高成本問題。成境科技持續強化自身於無感測器 AI 動補之深度學習，於2021 年推出 Red Pill Go 技術，將於軟體.硬體.行動端革命性影響產業。"
+        ]
+      },
+      "MaiCoin_Group": {
+        "title": "現代財富科技有限公司",
+        "descriptions": [
+          "MaiCoin 集團成立於 2013，為台灣交易量最大，且唯一具備區塊鏈技術公司之數位資產領導品牌。服務業務包含 MaiCoin 數位資產買賣平台、MAX 數位資產交易所、AMIS 帳聯網路區塊鏈技術、Qubic NFT 技術整合服務與 MaiCapital 對沖基金公司(香港)等。"
+        ]
+      },
+      "TianYen_Inc": {
+        "title": "天衍互動股份有限公司",
+        "descriptions": [
+          "天衍互動為海內外近十年深耕發展的新媒體科技公司，專注發展虛實混合投影以及互動科技。我們致力於將虛實混合科技導入藝文時尚、餐飲觀光、酷趴潮玩、精品派對、商空設計等等空間場景，打造全新「虛實混合元宇宙」應用及商業模式。"
+        ]
+      },
+      "Panelsemi_corp": {
+        "title": "方略電子股份有限公司",
+        "descriptions": [
+          "方略電子提供世界首創 Panel Foundry Business Model服務，協助客戶運用TFT-LCD的Ecosystem進行各種創新，以優異AM Mini LED柔性顯示器解決方案出發結合Web3虛擬人、AR/VR，實現廣告人的無限創意，是數位家外媒體事業快速增長的利器。"
+        ]
+      }
+    },
+    "Company": {
+      "Dentsu_Inc": "電通株式會社",
+      "MicroAd_Taiwan": "台灣微告",
+      "Omnicom_Media_Group": "宏盟媒體集團",
+      "Publicis_Groupe_Taiwan": "偉門智威",
+      "Volkswagen_Group_Taiwan": "台灣奧迪",
+      "Hakuhodo_Zeta_Inc": "博報堂知達股份有限公司",
+      "Dentsu_Taiwan_Inc": "電通行銷傳播集團",
+      "Mindshare": "傳立媒體",
+      "MaiCoin_Group": "現代財富科技有限公司",
+      "CacaFly": "cacaFly 聖洋科技"
+    }
+  },
+  "Registration": {
+    "title": "活動報名",
+    "Taiwan_Delegates": {
+      "title": "國內與會者",
+      "time": "報名時間 → 自即日起至11月11日止",
+      "price_list": [
+        "實體及線上票 - NT$3,000元",
+        "線上票 - NT$1,500元",
+        "學生優惠票 - NT$1,000元"
+      ],
+      "button": "立即報名"
+    },
+    "AFAA_Members": {
+      "title": "AFAA會員",
+      "subtitle": "線上參與",
+      "Section1": {
+        "title": "報名資格",
+        "descriptions": [
+          "AFAA會員透過當地AFAA組織報名者",
+          "共 200 個免費名額",
+          "( 依據報名先後順序，額滿為止 )"
+        ]
+      },
+      "Section2": {
+        "title": "報名時間",
+        "descriptions": [
+          "開始自即日起至10月31日止"
+        ]
+      },
+      "Section3": {
+        "title": "報名大會",
+        "descriptions": [
+          "請下載報名表格",
+          "填寫完畢後交由您當地的AFAA組織",
+          "協助送交大會完成報名"
+        ]
+      },
+      "button": "報名表格"
+    },
+    "IAA_Members": {
+      "title": "IAA會員",
+      "subtitle": "線上參與",
+      "time": "報名時間 → 自即日起至11月11日止",
+      "price_list": [
+        "策略合作 - USD250"
+      ],
+      "button": "立即報名"
+    },
+    "International_Delegates": {
+      "title": "國際與會者",
+      "subtitle": "線上參與",
+      "time": "報名時間 → 自即日起至11月11日止",
+      "price_list": [
+        "一般票價 - USD500"
+      ],
+      "button": "立即報名"
+    }
+  },
+  "Speakers": {
+    "title": "講者介紹",
+    "Day1": {
+      "1": {
+        "time": "10:20-11:00",
+        "name": "新家 平璽",
+        "company": "電通株式會社",
+        "position": "事業共創局科技開發部 Activation Producer/Planner",
+        "topic": "TOKYO GAME SHOW VR 2022",
+        "intro": [
+          "東京工業大學工學所(專修經營工學)畢業後，加入電通。加入後，主要負責擔任促銷領域相關的活動策劃人。並且會經擔任某電信公司的商業製作人。接著，他於2020年開始在 XR 領域擔任策劃及製作人，嶄露頭角。",
+          "他參與 2021年電通集團的跨界組織的\"XRX STUDIO\"的推出，並作為VR、AR、元界措施的策劃及製作人，負責多個專案項目及決策。其後，他擔任於2021年首次舉辦的東京電玩展 VR 的主要製作人，並且以 2022 年的專案負責人之姿跨足銷售、策劃和生產製作等多方面不同的專業領域。"
+        ]
+      },
+      "2": {
+        "time": "11:00-11:40",
+        "name": "許朝欽",
+        "company": "Yahoo",
+        "position": "媒體內容事業群經理",
+        "topic": "元宇宙世代影音拍攝的無限可能",
+        "intro": [
+          "Yahoo TV節目製作人，創作台灣第一位虛擬網紅「虎妮」，整合AR、VR、Mocap動態捕捉與虛擬製播等相關技術運用，為元宇宙世代打造新一代的影音拍攝技術，開創影音創作的無限可能性。"
+        ]
+      },
+      "3": {
+        "time": "11:40-12:00",
+        "name": "Nack-Hoi Kim",
+        "company": "ADASIA 2023 Seoul Organizing Committee",
+        "position": "主席",
+        "topic": "ADASIA 2023 Seoul Roadshow",
+        "intro": [
+          "韓國亞洲廣告聯盟（KFAA）主席 NackHoi Kim 將擔任2023亞洲廣告會議首爾組委會的總主席。2007年至2013年擔任第一企劃株式会社(Cheil Worldwide)會長。他持續透過韓國廣告代理商協會（KAAA）和韓國營銷俱樂部（KMC）等多種組織機構為韓國廣告業的發展做出貢獻。"
+        ]
+      },
+      "4": {
+        "time": "11:40-12:00",
+        "name": "Ben Heo",
+        "company": "ADASIA 2023 Seoul Organizing Committee",
+        "position": "秘書長",
+        "topic": "ADASIA 2023 Seoul Roadshow",
+        "intro": [
+          "Ben Heo博士是2023亞洲廣告會議首爾組委會秘書長。他目前於韓國韓信大學擔任教授。在加入委員會之前，他曾在第一企劃株式会社(Cheil Worldwide)擔任核心管理的職位，並率領團隊將三星電子打造成今日的全球知名品牌。在第一企劃的任職期間，他創立了印度第一企劃，並為美國第一企劃的發展做出了重大貢獻。"
+        ]
+      },
+      "5": {
+        "time": "13:20-14:00",
+        "name": "Bharat Khatri",
+        "company": "宏盟媒體集團",
+        "position": "宏盟媒體集團亞太區首席數位長",
+        "topic": "Web3.0的時代變革",
+        "intro": [
+          "Bharat為數位策略行銷專家，在數位和業務領域擁有超過十年的豐富經驗，在加入OMG前，曾帶領印度Xaxis團隊。身為宏盟媒體集團亞太區首席數位長，他與亞太區所有國家的數位領導者密切合作，加速數位策略的推動，更利用科技加深數位平台的效率和創意。"
+        ]
+      },
+      "6": {
+        "time": "14:00-14:40",
+        "name": "Surya Kotha",
+        "company": "XLenz Inc, USA",
+        "position": "執行長",
+        "topic": "擴增實境：數位轉型的下一波浪潮",
+        "intro": [
+          "Surya 長年擔任多間財富世界 500 強公司 C 級高階主管的數位轉型顧問。他價值數十億美元的客戶名單包括英特爾、蘋果、ADP、博世、思睿邏輯、可口可樂、Office Depot(歐迪)、美國政府、GSA(聯邦總務署)、瑞士銀行、PGE 等等。 Surya 亦曾擔任過美國和印度多家 IT 初創公司的導師和顧問委員會成員。"
+        ]
+      },
+      "7": {
+        "time": "14:40-15:20",
+        "name": "Justin Peyton",
+        "company": "Wunderman Thompson Asia Pacific",
+        "position": "Chief Strategy & Transformation Officer",
+        "topic": "Web3 時代的忠誠度",
+        "intro": [
+          "Justin 是一位策略行銷領導者，他幫助品牌與企業將新興技術與未來行銷及商業機會串連。作為 Wunderman Thompson APAC 首席轉型和戰略官，他領導區域技術、數據、商業、客戶體驗和品牌策略實踐，將團隊聚集通過創新的服務與商業模式展現品牌的潛在潛力、引人入勝的體驗和創意內容。",
+          "Justin 以創始顧問加入了 Web3 Marketing Association。他曾擔任 IAB SEA 和印度的董事會聯席主席。"
+        ]
+      },
+      "8": {
+        "time": "15:40-16:20",
+        "name": "安薩瑞",
+        "company": "台灣奧迪",
+        "position": "台灣福斯集團暨台灣奧迪總裁",
+        "topic": "未來移動的數位新面貌",
+        "intro": [
+          "安薩瑞先生於2019年起擔任AUDI AG德國總部銷售及數位新事業資深總監，自11月起正式接任台灣福斯集團暨台灣奧迪總裁一職。",
+          "安薩瑞先生2004年加入AUDI AG德國總部銷售管控部門，開啟他的汽車職業生涯，於2006年轉任銷售部，擔任印度區銷售經理，領導印度當地全國銷售公司及相關生產線單位，協助Audi品牌於印度市場成立分公司。",
+          "安薩瑞先生於 2011 年加入Audi印度團隊擔任經銷商發展主要負責人，隨後持續在AUDI AG 德國總部於售後服務部門工作約4 年時間，2017 年接獲新任務擔任Audi印度總裁職務。"
+        ]
+      },
+      "9": {
+        "time": "16:20-17:00",
+        "name": "金龍泰",
+        "company": "The SMC Group",
+        "position": "執行長",
+        "topic": "Short form video & play content",
+        "intro": [
+          "Alex是SMC集團的創辦人兼執行長，該集團是韓國最成功的社交媒體市場推廣公司之一。憑藉其在社交媒體廣告行業十多年的經驗，SMC持續與三星、CJ 集團、LG等眾多韓國公司及品牌進行合作，建立有意義的連結。如今他們正迅速擴展業務並在該領域佔有一席之地，去年的總銷售額達到 8000 萬美元左右。他們的工作範圍甚為廣泛，涵蓋品牌社交活動的營運和管理、網紅行銷、電子商務和平台業務。"
+        ]
+      },
+      "10": {
+        "time": "17:00-17:30",
+        "name": "Henry Park",
+        "company": "KRAFTON Inc.",
+        "position": "Head of NFT Metaverse",
+        "topic": "Introduction of Project Migaloo",
+        "intro": [
+          "波士頓諮詢公司顧問 ",
+          "魁匠團公司總體策略團隊負責人 ",
+          "魁匠團Web 3.0 圓桌會議團隊負責人",
+          "魁匠團 NFT 元宇宙負責人"
+        ]
+      }
+    },
+    "Day2": {
+      "1": {
+        "time": "09:30-10:10",
+        "name": "佐藤 格",
+        "company": "博報堂知達股份有限公司",
+        "position": "戰略企劃總監暨副總經理",
+        "topic": "Web 3時代的生活者發想",
+        "intro": [
+          "加入博報堂以来，參與日本國內外大型企業的飲料・汽車・金融・製藥等領域的行銷策略規劃與執行的支援。",
+          "自2016年起常駐上海，從事中華圏的日系/在地客戶服務支援與海外據點營運支援・人才培育・知識發展。",
+          "在總公司數據・驅動・企劃部時期，擁有與媒體平台共同開發數據解決方案的實務經驗。自2022年起至台灣任職。"
+        ]
+      },
+      "2": {
+        "time": "10:10-10:50",
+        "name": "趙慧芬",
+        "company": "Twitch",
+        "position": "Head of Sales, Taiwan, Twitch",
+        "topic": "新世代，新行銷：先別管你以前知道的",
+        "intro": [
+          "趙慧芬（Erin Chao）在 2006 年加入美國 Yahoo，擔任廣告產品經理, 之後轉調亞洲，擔任亞太區程序化平台總監，負責 Yahoo 廣告解決方案的銷售與營運。2019 年加入台灣新創公司 Appier，擔任全球客戶管理副總裁。2021年2月加入Twitch，擔任 Head of Sales Taiwan，帶領 Twitch 台灣業務團隊，提供品牌行銷解決方案與服務。"
+        ]
+      },
+      "3": {
+        "time": "10:50-11:30",
+        "name": "Asher Rapkin",
+        "company": "Meta",
+        "position": "Meta全球商業行銷總監",
+        "topic": "通往元宇宙商業之路",
+        "intro": [
+          "Asher Rapkin, 目前於 Meta 擔任 Facebook app以及新興平台的全球商業行銷總監，在此之前，Asher帶領Messenger和 WhatsApp的全球商業行銷，同時也帶領 Meta 的平台以及中小企業的產品行銷團隊。"
+        ]
+      },
+      "4": {
+        "time": "10:50-11:30",
+        "name": "張志光",
+        "company": "Meta",
+        "position": "大中華區創意策略總監",
+        "topic": "連結未來- 元宇宙創意",
+        "intro": [
+          "作為Meta GCR的創意策略總監，Roger主要專注於探索Meta平台上不同技術的創意應用，以幫助企業更好地推銷自己。這包括人工智能、AR、VR和我們所說的元宇宙行銷。同時，也將這些學習成果帶回來與我們的內部團隊分享，為未來的商務提供創意機會。"
+        ]
+      },
+      "5": {
+        "time": "11:30-12:10",
+        "name": "陳文琪",
+        "company": "台灣連線股份有限公司",
+        "position": "LINE台灣品牌行銷部副總經理",
+        "topic": "LINE: 拉近你我的距離- 數位參與和社會包容 如何透過文化創意內容，降低數位差異的進入門檻？",
+        "intro": [
+          "陳文琪自2019年1月加入LINE台灣，擔任品牌行銷副總，4年多來帶領團隊不斷拓展旗下各子服務的行銷宣傳，如LINE禮物、LINE購物、LINE Taxi的GTM和年度重大camapign。另外，運用LINE獨有生態圈和友善的科技應用，策動大型品牌聯展，如澎湖花火節、台灣燈會、白晝之夜。而以ESG企業永續經營為準，透過LINE FRESH計畫，培育並拓展台灣數位人才養成。再以內容行銷手法，協助台灣中小型企業數位轉型和商圈創生，策劃「今天誰來店」實境秀，獲得兩項金鐘獎入圍殊榮。透過精準行銷和分眾溝通，實踐『拉近你我的距離』的企業使命和『Life on LINE』的企業願景。",
+          "加入LINE之前，陳文琪曾任職於聯合利華、微軟、諾基亞，雅虎、以及 Gogoro 等科技龍頭，在科技業累積超過20年的經驗。陳文琪擁有美國西北大學 Kellogg 管理學院的 MBA 學位、以及國立台灣大學的 Bachelor of Science學士學位。"
+        ]
+      },
+      "6": {
+        "time": "13:30-13:50",
+        "name": "John D Chacko",
+        "company": "45th IAA World Congress, Penang, Malaysia 2024/ International Advertising Association",
+        "position": "Chairman, IAA World Congress 2024",
+        "topic": "IAA World Congress 2024 Penang Roadshow",
+        "intro": [
+          "John 是擁有 40 年品牌和行銷經驗的資深人士，在加入Coca-Cola之前，在Kraft Foods Australia開始他的行銷生涯，在加入 CMO前，他曾擔任歐洲、中東、拉丁美洲和亞太地區多個部門的行銷總監，馬來西亞Khazanah的董事總經理兼首席執行官。",
+          "曾擔任Malaysian Effie Awards、APPIES 和 CMO Awards的評委、評審團主席。他是馬來西亞國際廣告協會主席、全球教育副總裁和 IAA 世界董事會董事。他同時是 UiTM 傳播與媒體研究學院的兼職教授，以及是 2024 年馬來西亞檳城舉行的 IAA 第 45 屆世界大會主席。"
+        ]
+      },
+      "7": {
+        "time": "13:50-14:20",
+        "name": "Hiroyuki Oka",
+        "company": "CNN",
+        "position": "Account Director for CNN International Commercial",
+        "topic": "責任與參與—從產出驅動到目的驅動",
+        "intro": [
+          "Hiroyuki Oka 是 CNN International Commercial負責日本和台灣市場的客戶總監。 Oka 常駐東京，負責 CNN International Commercial 於日本和台灣的動態廣告銷售業務，同時與主要客戶、代理商利益相關者和 CNN International 的全球領導團隊密切合作。他的職責涵蓋台灣市場的區域經理，以擴大該地區的潛在收入。 Hiroyuki 管理 CNNIC 的一些主要客戶，並領導內部和外部的跨職能協作，為品牌提供一流的解決方案。他擁有賓夕法尼亞州立大學的經濟學學位。"
+        ]
+      },
+      "8": {
+        "time": "14:20-15:10",
+        "name": "小林匠太郎",
+        "company": "MicroAd 股份有限公司",
+        "position": "ID 解決方案部 部長",
+        "topic": "Web 3.0 x 廣告的未來",
+        "intro": [
+          "過去擔任日本微告營業部副總經理，負責品牌客戶開發以及APP發展的相關業務，兩年內為150多家廣告客戶提供服務。自2022年開始擔任ID解決方案部部長，因應後cookie時代來臨，接下來將會持續朝著Web3 以及提供各種ID解決的相關支援。"
+        ]
+      },
+      "9": {
+        "time": "15:30-16:10",
+        "name": "葛如鈞 (寶博士)",
+        "company": "電通行銷傳播集團",
+        "position": "Web3成長顧問",
+        "topic": "玩宇宙為王元宇宙",
+        "intro": [
+          "電通集團 Web3 成長顧問，台灣區塊鏈媒體 Blocktempo「年度最有影響力」21人之一。",
+          "台大網路與多媒體研究所資工博士 、日本慶應大學媒體設計博士後研究員，及美國奇點大學 (SingularityU) 首位台灣結業學員。"
+        ]
+      },
+      "10": {
+        "time": "16:10-16:50",
+        "name": "Denise Seligsohn",
+        "company": "Google",
+        "position": "Google APAC Privacy and Operations Lead",
+        "topic": "未來與進化後用戶隱私的重要性",
+        "intro": [
+          "Denise 領導市場推廣策略和運營，以促進該地區營銷人員、出版商和廣告合作夥伴做好產品隱私的準備。她確保對持久隱私解決方案和未來技術解決方案的優先考量進行統一敘述，同時保護用戶隱私。",
+          "Denise 在 Google 擁有超過 12 年的工作經驗，對應用程式廣告和廣告服務與程序化業務有著深入的了解。此前曾在西班牙擔任過應用廣告解決方案的亞太地區產品主管和銷售媒體購買解決方案經理。",
+          "在加入 Google 之前，Denise 曾在 Yahoo! Iberia任職，還擔任 IAB 碩士學位和西班牙馬德里康普頓斯大學的客座講師。"
+        ]
+      },
+      "11": {
+        "time": "16:50-17:30",
+        "name": "王柏麟",
+        "company": "傳立媒體",
+        "position": "創新內容董事總經理",
+        "topic": "元宇宙和品牌元宇宙",
+        "intro": [
+          "2013年加入傳立中國，並創立一支由30多名專家構成的多樣性文化創新內容團隊 CONTENT+，成員包括Campaign 亞太評選出40X40領導者、創意專家和文化實驗者，並在2018獲得 Campaign評選亞太最佳業務團隊，團隊作為主講嘉賓在坎城國際廣告節專場分享， 2020獲選Campaign Z時代年輕人連接的最佳數位溝通團隊。 "
+        ]
+      },
+      "12": {
+        "time": "16:50-17:30",
+        "name": "賈杰",
+        "company": "傳立媒體",
+        "position": "Head of Content",
+        "topic": "在台灣的品牌準備好迎接Web 3.0了嗎?",
+        "intro": [
+          "在台灣深耕行銷領域超過15年，目前帶領傳立台灣整合行銷團隊Content+，協助各產業的品牌行銷規劃，包含FMCG、汽車、健康與保健和QSR。",
+          "以快速反應適應市場主導行銷內容和創意策略，執行包含各種行銷活動專案，如品牌協作、網紅行銷、媒體合作、廣告和公關活動、社群媒體、戶外活動和新產品發布等。"
+        ]
+      },
+      "13": {
+        "time": "17:30-17:50",
+        "name": "陳致豪",
+        "company": "現代財富科技有限公司",
+        "position": "MaiCoin 集團 Qubic 產品負責人",
+        "topic": "元宇宙浪潮下品牌生存法則",
+        "intro": [
+          "MaiCoin 集團成立於 2013，為台灣交易量最大，且唯一具備區塊鏈技術公司之數位資產領導品牌。",
+          "服務業務包含 MaiCoin 數位資產買賣平台、MAX 數位資產交易所、AMIS 帳聯網路區塊鏈技術、Qubic NFT 技術整合服務與 MaiCapital 對沖基金公司(香港)等。"
+        ]
+      }
+    },
+    "Day3": {
+      "1": {
+        "time": "09:30-10:10",
+        "name": "李彥樞",
+        "company": "聖洋科技股份有限公司",
+        "position": "生態發展顧問",
+        "topic": "Brands x Web 3: The way forward",
+        "intro": [
+          "李彥樞是Hive Ventures 蜂行資本的創始合夥人。蜂行資本是專注於投資台灣早期AI新創的創投基金。人生上半場曾為網絡、大數據創業家的他，熱衷於與一流的人才和團隊共事，共同打造台灣新生代的獨角獸科技創業家。",
+          "在2009-2019年的十年期間，他從創立Buzzinate 及 bShare，成為中國網路界最大的消費者數據網絡，到與iClick Interactive Asia合併，更於2017年作為iClick的合夥人兼產品長及全球業務負責人登上NASDAQ的舞台，成為為少數40歲以下登上美股的台灣網路創業家。",
+          "一系列的努力，讓他於2012年登上Forbes 30位30歲以下的創業家（30 under 30），亦成為2018年Campaign Asia 40位40歲以下的廣告風雲人物。Yan畢業於政治大學、中歐國際工商學院MBA，並同為倫敦商學院 LBS校友。"
+        ]
+      },
+      "2": {
+        "time": "10:10-10:50",
+        "name": "劉思銘",
+        "company": "HTC VIVE ORIGINALS",
+        "position": "HTC VIVE ORIGINALS總經理",
+        "topic": "華燈初上的元宇宙",
+        "intro": [
+          "跨流行音樂、影視、媒體、虛擬實境等產業的知名工作者，現任HTC VIVE ORIGINALS總經理，於2019年導演VR作品《祈禱》，入圍第76屆威尼斯影展競賽單元，參與台法聯合製片作品VR動畫《咕嚕米的眼睛》，獲得安錫動畫大獎亦入圍第76屆威尼斯影展競賽單元。2018年製片VR電影《5x1》、並邀請侯孝賢與廖慶松共同監製，其中《O》、《山行》兩部VR短片入圍第76屆威尼斯影展競賽單元，《幕後》則入選觀摩單元。2021年擔任製作人與音樂總監的《病玫瑰》亦入圍第78屆威尼斯影展競賽單元。",
+          "2022年《BEATDAY》音樂元宇宙平台與《病玫瑰》均入圍SXSW西南偏南影展「XR Experience Spotlight」單元。",
+          "在流行音樂創作與製作上，曾創作周華健「朋友」、張惠妹「哭不出來」等百餘首歌詞與專輯製作人；曾任職TVBS電視台節目部總監，也曾於大陸新媒體視頻網土豆網原創中心擔任總經理。"
+        ]
+      },
+      "3": {
+        "time": "10:50-11:50",
+        "name": "朱宜振",
+        "company": "信任網路有限公司",
+        "position": "執行長",
+        "topic": "主持人",
+        "intro": [
+          "Lman Chu 是區塊鏈技術新創 BiiLabs 的執行長, 他擁有超過二十年以上的軟硬體整合經驗，其所帶領團隊參與區塊鏈底層技術早期參與 W3C DID(數位身分)標準，及與 IOTA 基金會聯手參與過聯合國數位身分計畫。"
+        ]
+      },
+      "4": {
+        "time": "10:50-11:50",
+        "name": "王友光",
+        "company": "光禾感知科技股份有限公司",
+        "position": "執行長兼創辦人",
+        "topic": "與談者",
+        "intro": [
+          "連續創業家，興趣是透過科技產生新商模。於2017成立OSENSE光禾感知科技，透過AI、CV等核心技術不斷突破，帶領OSENSE獲選日經新聞「尋找十年後的google 、改變世界的 100 家公司」殊榮，與經濟部新創事業獎、創新研究獎、金舶獎等肯定。"
+        ]
+      },
+      "5": {
+        "time": "10:50-11:50",
+        "name": "何健偉",
+        "company": "NoPFP實驗室",
+        "position": "執行長",
+        "topic": "與談者",
+        "intro": [
+          "Ben於2017年成立荔枝智慧，建立了Line行銷的平台荔枝好推。陸續也協助許多知名企業打造chatbot, AI相關系統，並取得多項專利。2021年投身區塊鏈產業開發。"
+        ]
+      },
+      "6": {
+        "time": "10:50-11:50",
+        "name": "黃重慶",
+        "company": "茶米宇宙科技股份有限公司",
+        "position": "執行長",
+        "topic": "與談者",
+        "intro": [
+          "GeneHuang, 早期 BAYC Holder, 創立台灣首個以DAO為名的自治組織, Taiwan DAO, 後創立台灣第一大 NFT邪教 Web3 社群Demi-Human NFT, 現職擔任茶米宇宙科技執行長一職。"
+        ]
+      },
+      "7": {
+        "time": "10:50-11:50",
+        "name": "石千泓",
+        "company": "成境科技",
+        "position": "執行長暨聯合創辦人",
+        "topic": "與談者",
+        "intro": [
+          "RH畢業CMU娛樂科技所，於美國.臺灣.香港等地有超過15年結合前端電腦圖像技術與娛樂產業之應用經驗。于美國先後任職於加州迪士尼樂園想像工程科技(WDI)與美商Activision Blizzard中央科技部參予多款吉他英雄(Guitar Hero) 遊戲內容開發。返回亞洲後加盟香港商壹動畫擔任研發長，並於2017年與Dobry Todorov共同創辦Red Pill Lab。"
+        ]
+      },
+      "8": {
+        "time": "13:00-14:30",
+        "name": "楊志偉",
+        "company": " 聖洋科技股份有限公司",
+        "position": "共同創辦人兼策略長",
+        "topic": "主持人",
+        "intro": [
+          "Brian Yang是 Cacafly共同創辦人，並兼任交大GMBA助理教授。2019年返台前，Brian 曾任職NYSE:RENN投資部及歐洲上市集團ProsiebenSat1,Media SE 的投資部，評估超過2億美元的AI, VR, AR, MarTech, Edtech等領域的投資及投後管理。Brian 畢業于交大電機系及劍橋大學ＭＢＡ, 曾任台積電研發工程師。"
+        ]
+      },
+      "9": {
+        "time": "13:00-14:30",
+        "name": "朱軒逸",
+        "company": "500 Global",
+        "position": "Principal",
+        "topic": "評審",
+        "intro": [
+          "現任 500 Global Principal，負責發掘台灣具國際潛力的新創公司及人才。在此之前，有超過 10 年的創投及產業經驗，職業生涯始於 IBM，曾任職於台杉及益鼎創投，亦曾在新創企業負責商業策略及開發。畢業於台灣大學物理系，並取得威斯康辛大學麥迪遜分校電機碩士學位。"
+        ]
+      },
+      "10": {
+        "time": "13:00-14:30",
+        "name": "成之璇",
+        "company": "心元資本",
+        "position": "執行合夥人",
+        "topic": "評審",
+        "intro": [
+          "成之璇是心元創始團隊成員之一，於 2014 年加入心元資本，以橫跨美國及大中華之豐富工作經驗領導心元在全球的運營、投資，以及項目管理。在加入心元之前，她畢業於美國加州 UCLA 商學管理研究所、曾任職於大型管理顧問公司擔任商務顧問，並曾於亞洲共同創辦教育新創公司。"
+        ]
+      },
+      "11": {
+        "time": "13:00-14:30",
+        "name": "盧志軒",
+        "company": "達盈管顧",
+        "position": "投資總監",
+        "topic": "評審",
+        "intro": [
+          "Jason服務於達盈管顧，主要負責數位經濟、軟體服務與車用科技領域投資，投資階段涵蓋種子期至B輪，Jason亦擔任達盈天使基金董事。基於達盈在數位經濟的投入，Jason也被選為台灣數位媒體應用暨行銷協會理事一職。",
+          "在2005年至2007年間任職於永豐餘集團策略整合中心，參與新事業開發部門；並於2007-2010年參與三家行動通訊領域新創公司。2012-2019年間，盧志軒任職於時代基金會Garage+育成中心及麻省理工學院產學合作計畫經理，主要負責新創公司管理、投資人與企業關係。"
+        ]
+      },
+      "12": {
+        "time": "13:00-14:30",
+        "name": "李彥樞",
+        "company": "蜂行資本",
+        "position": "創始合夥人",
+        "topic": "評審",
+        "intro": [
+          "李彥樞是Hive Ventures 蜂行資本的創始合夥人。蜂行資本是專注於投資台灣早期AI新創的創投基金。人生上半場曾為網絡、大數據創業家的他，熱衷於與一流的人才和團隊共事，共同打造台灣新生代的獨角獸科技創業家。",
+          "在2009-2019年的十年期間，他從創立Buzzinate 及 bShare，成為中國網路界最大的消費者數據網絡，到與iClick Interactive Asia合併，更於2017年作為iClick的合夥人兼產品長及全球業務負責人登上NASDAQ的舞台，成為為少數40歲以下登上美股的台灣網路創業家。",
+          "一系列的努力，讓他於2012年登上Forbes 30位30歲以下的創業家（30 under 30），亦成為2018年Campaign Asia 40位40歲以下的廣告風雲人物。Yan畢業於政治大學、中歐國際工商學院MBA，並同為倫敦商學院 LBS校友。"
+        ]
+      },
+      "13": {
+        "time": "13:00-14:30",
+        "name": "李昀修",
+        "company": "紅樓資本",
+        "position": "共同創辦人",
+        "topic": "評審",
+        "intro": [
+          "李昀修身為區塊鏈與金融專家，亦是紅樓資本的共同創辦人暨管理合夥人。畢業於台大材料系與半導體電子材料所，曾發表半導體磊晶論文在國際科學期刊上，並在畢業後於世界Top10企業台積電擔任先進製程的研發工程師，開發20nm半導體晶片。曾在上海、柏林、台灣等地有多次創業的經驗，於兩岸帶領超過20人的團隊，並於有價證券的二級市場有超過十年的經驗。"
+        ]
+      }
+    }
+  },
+  "NftBazaar": {
+    "title": "NFT創作展",
+    "description": "DigiAsia 2022 數位亞洲大會盛大舉辦，除了空投大會限量 NFT，同時號召廣告行銷、創意、數位界菁英及青年創作者共同響應設計，以今年大會主軸「Web3 Rhapsody狂想曲」為創作主題，將優秀的設計作品於 DigiAsia 虛擬展廳及花博流行館展示，紀錄當代創意人對於 WEB3 的想像，並進行 NFT 作品鑄造、上架及義賣，一同響應參與DigiAsia 2022 同遊Web3 Rhapsody。",
+    "Purchase_link": {
+      "Twd": {
+        "text": "台幣購買",
+        "link": "https://digiasia2022.qubic.market/zh"
+      },
+      "Eth": {
+        "text": "ETH購買",
+        "link": "https://digiasia2022.qubic.market/zh/crypto"
+      }
+    },
+    "Fqa": {
+      "1": {
+        "title": "什麼是 NFT？",
+        "descriptions": [
+          "NFT 是一種數位商品，由於每一個 NFT 有著唯一、難以竄改的特性，常用於數位收藏或身份認證使用。大會本次募集創作並鑄造，希望藉著 NFT 此性質，於展會期間提供特殊身份辨識、賦能並作為數位保存，紀錄2022年大家對於 WEB3 Rhapsody 的想像。"
+        ]
+      },
+      "2": {
+        "title": "本專案 NFT 是由哪條區塊鏈發行？",
+        "descriptions": [
+          "Ethereum"
+        ]
+      },
+      "3": {
+        "title": "什麼是賦能？本次義賣之 NFT 賦能為？",
+        "descriptions": [
+          "在藝術、紀念及收藏價值外，對 NFT 額外附加功能或權利，稱為賦能。購買本次 NFT 創作展的與會者，可額外",
+          "① 於活動現場入場並兌換大會限量T恤一件",
+          "② 於活動現場持您擁有的 NFT 圖像，以互動裝置實時簽到留念",
+          "③ 購買後提供 Polygon 鏈的錢包，MetaCity M 將於後續空投遊戲道具 NFT，可於遊戲中使用房產外觀 「和風幻想｜青和之家」（一個錢包地址限獲得一個，若購買多個作品可填寫不同 Polygon 錢包位址）"
+        ]
+      },
+      "4": {
+        "title": "什麼是錢包？我是否要有錢包才能購買 NFT？",
+        "descriptions": [
+          "錢包在 WEB 3 中用來儲存加密貨幣與 NFT，因此需要錢包才能支付及保管您的數位商品。本專案與 Qubic 合作，需使用 Qubic Wallet 創建錢包，您可選擇以 ETH 支付或直接透過信用卡購買數位收藏品。"
+        ]
+      },
+      "5": {
+        "title": "購買後可以退貨嗎？",
+        "descriptions": [
+          "由於NFT商品屬於數位商品，與一般網購商品不符，因此一旦您的交易成立，是無法提供退貨的。"
+        ]
+      },
+      "6": {
+        "title": "購買後可以轉售嗎？",
+        "descriptions": [
+          "我們的 NFT 是運行在 Ethereum 以太鏈上，因此擁有後可以自行在第三方交易平台上進行買賣（如 Opensea, Looksrare 等），但僅有從官方購買的擁有者可以獲得大會提供的賦能。"
+        ]
+      }
+    }
+  },
+  "NftRedeem": {
+    "title": "NFT兌換",
+    "nft_collection_name": [
+      "DigiAsia 2022",
+      "紀念 NFT"
+    ],
+    "nft_limited": "限量 1,080 款",
+    "description": "DigiAsia 2022 數位亞洲大會將針對與會者空投紀念 NFT ，共計 1,080 款變化，以 DigiBaby 的好奇心，陪伴與會者探索 WEB 3 的世界。",
+    "Schedule": {
+      "Opening": {
+        "day": "11/15.TUE",
+        "description": "中午 12:00 開放領取"
+      },
+      "Reveal": {
+        "day": "11/17.THU",
+        "description": "早上 9:00 解盲，已領取 NFT 的與會者可以持 NFT 驗證入場"
+      },
+      "Ending": {
+        "day": "12/07.WED",
+        "description": "00:00 關閉鑄造"
+      }
+    },
+    "nft_mint_button_text": "開始鑄造",
+    "Nft_mint_instructions": {
+      "title": "鑄造教學",
+      "Steps": {
+        "1": "步驟一：點擊開始鑄造，前往 Tix Passport 註冊頁面",
+        "2": "步驟二：請務必使用報名時填寫的 Email 註冊，並依照提示完成註冊",
+        "3": "步驟三：以 Email 登入後，前往「設定」> 「帳號」>「錢包」",
+        "4": "步驟四：按下建立錢包並設定密碼，密碼請務必牢記或直接手寫抄下",
+        "5": "步驟五：前往「收藏 』>『 未領取」頁面，看到您符合空投資格的項目，若無顯示，請確認您註冊的 Email 是否與活動報名 Email 相同",
+        "6": "步驟六：點擊領取即完成空投"
+      }
+    },
+    "Nft_empowerment": {
+      "title": "賦能說明",
+      "Steps": {
+        "1": "1.於 11/17～11/19 論壇進行期間，可直接開啟 Tix Passport ，點擊「票夾」頁面向工作人員出示 QR code 入場",
+        "2": "2.抽取 450 位鑄造完成的與會者，MetaCity M 將於後續空投遊戲道具 NFT 至同一 Tix Passport 錢包位址，可於遊戲中使用房產外觀 「和風幻想｜青和之家」"
+      }
+    }
+  },
+  "Contact_Us": {
+    "title": "聯絡我們",
+    "name": "台北市廣告代理商業同業公會",
+    "contact_person": "聯絡人：劉珮岑Celia／陳喬Joey",
+    "tel": "電話：+886-2-2727-6698 ext.106、101",
+    "fax": "傳真：+886-2-2727-9598",
+    "Email": {
+      "title": "電子郵件：",
+      "address_1": "celialiu@taaa.org.tw",
+      "address_2": "joeychen@taaa.org.tw"
+    },
+    "address": "聯絡地址： 11085台北市信義區松德路161號21樓"
+  },
+  "DigiAsia_Retrospect": {
+    "title": "歷屆回顧",
+    "link_2020": {
+      "title": "2020大會回顧",
+      "url": "http://digiasia.org.tw/2020/index_zh.html"
+    },
+    "link_2018": {
+      "title": "2018大會回顧",
+      "url": "http://digiasia.org.tw/2018/zh-tw/index.html"
+    }
+  }
+}

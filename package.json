@@ -1,24 +1,56 @@
 {
-  "name": "2022-digital-asia",
-  "version": "0.1.0",
+  "name": "2022-digiasia",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3001",
     "build": "next build",
+    "export": "next build && next export && next-image-export-optimizer",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "lint:fix": "eslint . --ext .ts,.tsx,.js,.jsx,.json --fix",
+    "serve": "npx http-server ./out -p 8080",
+    "deploy": "yarn export && node -r dotenv/config deploy.js dotenv_config_path=./.env.local"
   },
   "dependencies": {
-    "next": "12.2.4",
+    "@chakra-ui/react": "^2.2.6",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@fontsource/chakra-petch": "^4.5.8",
+    "body-scroll-lock": "3.1.5",
+    "framer-motion": "^7.0.1",
+    "gsap": "^3.10.4",
+    "next": "13.0.5",
+    "next-export-i18n": "^2.0.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-scroll": "^1.8.7"
   },
   "devDependencies": {
+    "@svgr/webpack": "^6.5.1",
+    "@types/body-scroll-lock": "^3.1.0",
     "@types/node": "18.7.1",
     "@types/react": "18.0.17",
     "@types/react-dom": "18.0.6",
-    "eslint": "8.21.0",
-    "eslint-config-next": "12.2.4",
+    "@types/react-scroll": "^1.8.4",
+    "@typescript-eslint/eslint-plugin": "^5.33.0",
+    "@typescript-eslint/parser": "^5.33.0",
+    "dotenv": "^16.0.3",
+    "eslint": "^8.21.0",
+    "eslint-config-next": "13.0.5",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-json-format": "^2.0.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-simple-import-sort": "^7.0.0",
+    "next-image-export-optimizer": "^1.0.1",
+    "prettier": "^2.7.1",
+    "ssh2-sftp-client": "^9.0.4",
     "typescript": "4.7.4"
+  },
+  "engines": {
+    "node": "16.16.0",
+    "yarn": "1.22.19"
   }
 }

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 169 71">
+  <ellipse cx="84.8479" cy="35.7047" fill="url(#a)" rx="35.3078" ry="34.7609"/>
+  <ellipse cx="133.394" cy="35.7042" fill="url(#b)" rx="35.3078" ry="34.7609"/>
+  <path fill="#000" d="m84.8462 26.2239 2.9362 7.7207 8.0975 2.8129-8.0975 2.8031-2.9362 7.7305-2.9464-7.7305-8.0873-2.8031 8.0873-2.8129 2.9464-7.7207Z"/>
+  <ellipse cx="36.2981" cy="35.7042" fill="url(#c)" rx="35.3078" ry="34.7609"/>
+  <defs>
+    <linearGradient id="a" x1="18.8627" x2="118.246" y1="-32.6773" y2="92.4967" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#969696"/>
+      <stop offset=".4375" stop-color="#fff" stop-opacity=".7604"/>
+      <stop offset=".625" stop-color="#fff" stop-opacity=".8854"/>
+      <stop offset=".8073" stop-color="#989898"/>
+    </linearGradient>
+    <linearGradient id="b" x1="67.4086" x2="166.792" y1="-32.6778" y2="92.4962" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#969696"/>
+      <stop offset=".4375" stop-color="#fff" stop-opacity=".7604"/>
+      <stop offset=".625" stop-color="#fff" stop-opacity=".8854"/>
+      <stop offset=".8073" stop-color="#989898"/>
+    </linearGradient>
+    <linearGradient id="c" x1="-29.6871" x2="69.6959" y1="-32.6778" y2="92.4962" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#969696"/>
+      <stop offset=".4375" stop-color="#fff" stop-opacity=".7604"/>
+      <stop offset=".625" stop-color="#fff" stop-opacity=".8854"/>
+      <stop offset=".8073" stop-color="#989898"/>
+    </linearGradient>
+  </defs>
+</svg>
